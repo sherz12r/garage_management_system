@@ -72,3 +72,9 @@ With a user-friendly interface and structured data management, the application e
 ### Vehicle makes
 ![vehicle makes](vehicle makes.png)
 
+
+## 📫 Let’s Connect
+
+* 📧 **Email:** [sherz12r@gmail.com](mailto:sherz12r@gmail.com)
+* 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/971527861045)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/sherz12r](https://www.linkedin.com/in/sherz12r)
